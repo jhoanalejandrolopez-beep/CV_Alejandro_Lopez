@@ -1,12 +1,10 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Jhoan Alejandro Cardozo Lopez
+**Profesión:** Programador
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [jhoanalejandrolopez552@gmail.com](jhoanalejandrolopez552@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -17,6 +15,9 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
+### **Servicio Nacional de Aprendizaje** _(2014 - 2018)_
+- Título obtenido.
+
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
 
